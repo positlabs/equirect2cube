@@ -1,8 +1,8 @@
 # equirect2cube
 NodeJS CLI tool for converting equirectangular panoramic images to cubemaps.
 
-<img src='./equirect.png' width="300">
-<img src='./faces.png' width="300">
+<img src='https://raw.githubusercontent.com/positlabs/equirect2cube/main/equirect.png' width="300">
+<img src='https://raw.githubusercontent.com/positlabs/equirect2cube/main/faces.png' width="300">
 
 ## Usage
 
