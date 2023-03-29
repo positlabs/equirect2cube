@@ -1,0 +1,19 @@
+{
+  "name": "equirect2cube",
+  "version": "0.1.0",
+  "description": "NodeJS CLI tool for converting equirectangular panoramic images to cubemaps.",
+  "main": "equirect2cube.js",
+  "scripts": {
+    "test": "bash test.sh"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "equirect-cubemap-faces-js": "1.2.0",
+    "pngjs": "^3.3.0",
+    "yargs": "^9.0.1"
+  },
+  "bin": {
+    "equirect2cube": "./equirect2cube.js",
+    "e2c": "./equirect2cube.js"
+  }
+}
