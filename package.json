@@ -1,6 +1,6 @@
 {
   "name": "equirect2cube",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NodeJS CLI tool for converting equirectangular panoramic images to cubemaps.",
   "main": "equirect2cube.js",
   "scripts": {
